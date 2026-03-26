@@ -48,6 +48,10 @@ for (var i = 130; i < 185; i+=20) {
   text('i love tbz', 5, i);
 }
 
+for (var i = 205; i < 265; i+=20) {
+  text('i love nct', 5, i);
+}
+
 };
 
 draw = function(){   
